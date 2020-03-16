@@ -441,6 +441,14 @@
             "repoName": "docToolchain/aoc-2019",
             "repoURL": "https://github.com/docToolchain/aoc-2019",
             "logo": "advent-of-code.png"
+        },
+        {
+            "title": "basque",
+            "description": "A top-down 2d game engine, written from scratch in under 1000 lines of C.",
+            "language": "C",
+            "repoName": "ryanpcmcquen/basque",
+            "repoURL": "https://github.com/ryanpcmcquen/basque/",
+            "logo": "basque.png"
         }
     ]
 }
