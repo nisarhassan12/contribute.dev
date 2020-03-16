@@ -441,6 +441,14 @@
             "repoName": "docToolchain/aoc-2019",
             "repoURL": "https://github.com/docToolchain/aoc-2019",
             "logo": "advent-of-code.png"
+        },
+        {
+            "title": "Nuxt.js",
+            "description": "The Vue.js Framework",
+            "language": "JavaScript",
+            "repoName": "nuxt/nuxt.js",
+            "repoURL": "https://github.com/nuxt/nuxt.js",
+            "logo": "nuxtjs.png"
         }
     ]
 }
