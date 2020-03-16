@@ -441,6 +441,14 @@
             "repoName": "docToolchain/aoc-2019",
             "repoURL": "https://github.com/docToolchain/aoc-2019",
             "logo": "advent-of-code.png"
+        },
+        {
+            "title": "Gatsby",
+            "description": "Build blazing fast, modern apps and websites with React",
+            "language": "JavaScript",
+            "repoName": "gatsbyjs/gatsby",
+            "repoURL": "https://github.com/gatsbyjs/gatsby",
+            "logo": "gatsby.svg"
         }
     ]
 }
